@@ -1,1 +1,1 @@
-Demo Site -> http://192.168.1.71:8033/css-challenge/day-002/day-002.html
+Demo Site -> http://ng.coder77.tech/css-challenge/day-002/day-002.html
